@@ -24,6 +24,22 @@
   - 全连接层
   - 稠密层
 
+  ## 损失函数
+  
+  ![image-20231127223116576](F:\XJTLU\RelearnML\Note_THU_MSP\README.assets\image-20231127223116576.png)
+  note:1/2 是为了后续求导
+  
+  ## 梯度下降
+  
+  ![image-20231127223359462](F:\XJTLU\RelearnML\Note_THU_MSP\README.assets\image-20231127223359462.png)
+  修改值太大可能会产生震荡
+  
+  ![image-20231127224144119](F:\XJTLU\RelearnML\Note_THU_MSP\README.assets\image-20231127224144119.png)
+  
+  ![image-20231127224543392](F:\XJTLU\RelearnML\Note_THU_MSP\README.assets\image-20231127224543392.png)
+  
+  ## 反向传播算法（BP: Back propagation）
+  
   
 
-## 
+​	
